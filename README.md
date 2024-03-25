@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with any highly passionate individual!
 - 📫 How to reach me anaymehra63@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have been a Social Media Manager
+- ⚡ Fun fact: I play games
 
 <!---
 anaymehra/anaymehra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
