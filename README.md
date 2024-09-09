@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anaymehra
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 PERN STACK 
 - 💞️ I’m looking to collaborate with any highly passionate individual!
 - 📫 How to reach me anaymehra63@gmail.com
 - 😄 Pronouns: he/him
