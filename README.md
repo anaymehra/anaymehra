@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 PERN STACK 
 - 💞️ I’m looking to collaborate with any highly passionate individual!
-- 📫 How to reach me anaymehra63@gmail.com
+- 📫 How to reach me anaymehra@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play games
 
